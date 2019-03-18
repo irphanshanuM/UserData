@@ -60,20 +60,13 @@ extension TestUiSearchController : UISearchResultsUpdating {
         self.tableview.reloadData()
         
         //ubumm
+        
+        
+        //ggjg
     }
     
-    func ahduiahiuh(_ searchBar: UISearchBar) {
-        if searchBar.text! == ""{
-            arraySearchdata = arraydata
-        }
-        self.tableview.reloadData()
-        
-        //ubumm
 
-    }
 }
-
-
 
 
 

@@ -58,6 +58,18 @@ extension TestUiSearchController : UISearchResultsUpdating {
             arraySearchdata = arraydata
         }
         self.tableview.reloadData()
+        
+        //ubumm
+    }
+    
+    func ahduiahiuh(_ searchBar: UISearchBar) {
+        if searchBar.text! == ""{
+            arraySearchdata = arraydata
+        }
+        self.tableview.reloadData()
+        
+        //ubumm
+
     }
 }
 
